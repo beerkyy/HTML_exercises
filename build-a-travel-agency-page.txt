@@ -1,0 +1,50 @@
+** start of index.html **
+
+<!DOCTYPE HTML>
+<html lang="en">
+
+  <head>
+    <title>JenTravelAgency</title>
+    <meta charset="utf-8">
+    <meta property="og:title" content="Travel Agency Page">
+    <meta name="description" content= "Plan your next adventure with our travel agency. Discover custom vacation packages, guided tours, and unforgettable experiences around the world.">
+  </head>
+<body>
+<h1>Travel to France with JenAgency</h1>
+  <p>Explore the beauty of France – from the Eiffel Tower to the vineyards of Bordeaux</p>
+
+<h2>Packages</h2>
+  <p>At JenAgency, we offer tailored experiences to match every traveler's dream. Choose from our curated packages ; Perfect for couples, with Eiffel Tower dinners and Seine River cruises, Explore Paris, Provence, and the French Riviera in one unforgettable journey. Discover Bordeaux and Burgundy through exclusive vineyard tours and gourmet dining. </p>
+
+  <ul>
+    <li><a href = "https://www.freecodecamp.org/learn" target = "_blank">Group Travels </a>
+    <li><a href = "https://www.freecodecamp.org/learn" target = "_blank">Private Tours</a>
+  </ul>
+
+<h2>Top Itineraries</h2>
+
+  <figure>
+    <a href = "https://www.freecodecamp.org/learn" target = "_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt = "Not France, fs">
+    </a>
+    <figcaption>Not France but close to France ;)</figcaption>
+  </figure>
+
+  <figure>
+    <a href = "https://www.freecodecamp.org/learn" target = "_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt = "Not France, fs">
+    </a>
+    <figcaption>Not France but close to France, right ;)</figcaption>
+  </figure>
+
+    <figure>
+    <a href = "https://www.freecodecamp.org/learn" target = "_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt = "Not France, fs">
+    </a>
+    <figcaption>Not France but close to France, right,right ;)</figcaption>
+  </figure>
+</body>
+</html>
+
+** end of index.html **
+
